@@ -1,0 +1,8 @@
+5. Commiting staged files:
+    command : git commit -m "your commit message"
+6. push a repo to github:
+    command : git remote add origin "link"
+7. push changes to github:
+    command : git push -u origin main
+8. pull latest changes
+    command : git pull origin main
