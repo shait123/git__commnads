@@ -1,0 +1,6 @@
+Git Commands
+1. create git in current folder : git init
+2. clone an existing github repo : git clone "repo"
+3. check current status : git status
+4. add files to staging area : git add filename #single file
+                               git add .        #all files 
